@@ -1,0 +1,40 @@
+.main {
+    background-color: #004175;
+    border-color: #89DEEF;
+    border-width: 20px;
+}
+
+body{
+    background: whitesmoke;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.flex-container{
+    display: flexbox;
+    display: table-row-group
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    display: flex;
+    background-color: thistle;
+}
